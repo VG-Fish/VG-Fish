@@ -17,6 +17,7 @@ https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=
 
 [![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=bearbotics2358\&repo=Smokey-XVII&theme=moltack&show_owner=true)](https://github.com/bearbotics2358/Smokey-XVII)
 
+### Miscellaneous Stuff
 ![](https://komarev.com/ghpvc/?username=VG-Fish&color=blue&abbreviated=true)
 <!--
 **VG-Fish/VG-Fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
