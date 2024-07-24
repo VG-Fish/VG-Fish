@@ -1,10 +1,14 @@
-## Hi there 👋, I'm Vishwesswaran (Vishy) Gopal
+# Hi there 👋, I'm Vishwesswaran (Vishy) Gopal
 
 And I'm a highschooler who's interested in pursuing mechatronics in college.
 
+## My Stats
 [![VG-Fish's GitHub stats](
 https://github-readme-stats.vercel.app/api?username=VG-Fish&rank_icon=percentile&theme=moltack&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats
 )
+
+## My Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VG-Fish)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **VG-Fish/VG-Fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
