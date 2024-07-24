@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Vishwesswaran (Vishy) Gopal
 
-And I'm a highschooler who's interested in pursuing mechatronics in college.
+And I'm a highschooler who's interested in pursuing mechatronics in college. Here are some of my: 
 
 
 ## My Stats
