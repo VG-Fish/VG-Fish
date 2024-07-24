@@ -10,7 +10,7 @@ https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VG-Fish&theme=moltack&exclude_repo=Windy-City-Hacks-Project&size_weight=0.5&count_weight=0.5)
 
 ## Some Projects I've Worked On
-![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=VG-Fish\&repo=Nova-Motors&theme=moltack&show_owner=true)
+[![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=VG-Fish\&repo=Nova-Motors&theme=moltack&show_owner=true)](https://github.com/VG-Fish/Nova-Motors)
 <!--
 **VG-Fish/VG-Fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
