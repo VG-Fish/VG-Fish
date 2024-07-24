@@ -2,6 +2,8 @@
 
 And I'm a highschooler who's interested in pursuing mechatronics in college.
 
+![](https://komarev.com/ghpvc/?username=VG-Fish&color=blue)
+
 ## My Stats
 ![VG-Fish's GitHub stats](
 https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=true&rank_icon=percentile&theme=moltack&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
