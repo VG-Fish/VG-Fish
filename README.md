@@ -10,6 +10,8 @@ https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=
 ## The Languages I Use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VG-Fish&exclude_repo=Windy-City-Hacks-Project)](https://github.com/anuraghazra/github-readme-stats)
 
+## Some Projects I've Worked On
+
 <!--
 **VG-Fish/VG-Fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
