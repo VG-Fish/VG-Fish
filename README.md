@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Vishwesswaran (Vishy) Gopal
 
-I'm a highschooler who's interested in pursuing mechatronics in college.
+And I'm a highschooler who's interested in pursuing mechatronics in college.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VG-Fish)](https://github.com/anuraghazra/github-readme-stats)
 
