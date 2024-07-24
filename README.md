@@ -11,6 +11,7 @@ https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VG-Fish&theme=moltack&exclude_repo=Windy-City-Hacks-Project)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Some Projects I've Worked On
+Made a Business Management Simulator that received first place in the FBLA Computer Game & Simulation Programming Event at Nationals 2024!
 ![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=VG-Fish\&repo=Nova-Motors&theme=moltack&show_owner=true)
 <!--
 **VG-Fish/VG-Fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
