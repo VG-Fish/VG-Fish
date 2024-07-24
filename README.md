@@ -7,7 +7,7 @@ And I'm a highschooler who's interested in pursuing mechatronics in college.
 https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=true&rank_icon=percentile&theme=moltack&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats
 )
 
-## My Languages
+## The Languages I Use
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VG-Fish&exclude_repo=Windy-City-Hacks-Project)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
