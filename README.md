@@ -8,7 +8,7 @@ https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=
 )
 
 ## The Languages I Use
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VG-Fish&exclude_repo=Windy-City-Hacks-Project)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VG-Fish&theme=moltack&exclude_repo=Windy-City-Hacks-Project)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Some Projects I've Worked On
 ![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=VG-Fish\&repo=Nova-Motors&theme=moltack)
