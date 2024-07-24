@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Vishwesswaran (Vishy) Gopal
+![](https://komarev.com/ghpvc/?username=VG-Fish&color=blue)
 
 And I'm a highschooler who's interested in pursuing mechatronics in college.
 
-![](https://komarev.com/ghpvc/?username=VG-Fish&color=blue)
 
 ## My Stats
 ![VG-Fish's GitHub stats](
