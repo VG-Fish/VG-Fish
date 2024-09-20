@@ -13,7 +13,7 @@ https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=
 ## The Projects I've Worked On
 [![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=VG-Fish\&repo=Nova-Motors&theme=moltack&show_owner=true)](https://github.com/VG-Fish/Nova-Motors)
 
-[![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=VG-Fish\&repo=College-Supplemental-Essay-Helper&theme=moltack&show_owner=true)](https://github.com/VG-Fish/College-Supplemental-Essay-Helper)
+[![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=VG-Fish\&repo=College-Board&theme=moltack&show_owner=true)](https://github.com/VG-Fish/College-Board)
 
 [![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=bearbotics2358\&repo=Smokey-XVII&theme=moltack&show_owner=true)](https://github.com/bearbotics2358/Smokey-XVII)
 
