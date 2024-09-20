@@ -11,9 +11,9 @@ https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VG-Fish&theme=moltack&exclude_repo=Windy-City-Hacks-Project&size_weight=0.5&count_weight=0.5)
 
 ## The Projects I've Worked On
-[![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=VG-Fish\&repo=Nova-Motors&theme=moltack&show_owner=true)](https://github.com/VG-Fish/Nova-Motors)
-
 [![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=VG-Fish\&repo=College-Board&theme=moltack&show_owner=true)](https://github.com/VG-Fish/College-Board)
+
+[![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=VG-Fish\&repo=Nova-Motors&theme=moltack&show_owner=true)](https://github.com/VG-Fish/Nova-Motors)
 
 [![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=bearbotics2358\&repo=Smokey-XVII&theme=moltack&show_owner=true)](https://github.com/bearbotics2358/Smokey-XVII)
 
