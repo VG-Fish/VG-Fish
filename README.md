@@ -15,7 +15,7 @@ https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=
 
 [![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=VG-Fish\&repo=Nova-Motors&theme=moltack&show_owner=true)](https://github.com/VG-Fish/Nova-Motors)
 
-[![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=bearbotics2358\&repo=Smokey-XVII&theme=moltack&show_owner=true)](https://github.com/bearbotics2358/Smokey-XVII)
+[![Nova Motors](https://github-readme-stats.vercel.app/api/pin?username=bearbotics2358\&repo=Smokey-18&theme=moltack&show_owner=true)](https://github.com/bearbotics2358/Smokey-XVII)
 
 ### And The Miscellaneous Stuff
 ![](https://komarev.com/ghpvc/?username=VG-Fish&color=blue&abbreviated=true)
