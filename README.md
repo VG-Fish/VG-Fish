@@ -8,7 +8,7 @@ And I'm a highschooler (in 12th grade) who's interested in pursuing robotics/mec
 https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=true&theme=moltack&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## The Languages I Use
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VG-Fish&theme=moltack&exclude_repo=Windy-City-Hacks-Project,Advanced-Topics-Final-Presentation&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VG-Fish&theme=moltack&exclude_repo=Windy-City-Hacks-Project,Advanced-Topics-Final-Presentation&size_weight=0.5&count_weight=0.5&langs_count=10)
 
 ## Some Projects I've Worked On
 [![College Board SAT Question Scraper](https://github-readme-stats.vercel.app/api/pin?username=VG-Fish\&repo=College-Board&theme=moltack&show_owner=true&layout=donut)](https://github.com/VG-Fish/College-Board)
