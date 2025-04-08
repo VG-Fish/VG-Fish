@@ -17,7 +17,7 @@ https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=
 
 [![Bearbotics's code for the 2025 FIRST Robotics Competition](https://github-readme-stats.vercel.app/api/pin?username=bearbotics2358\&repo=Smokey-18&theme=moltack&show_owner=true)](https://github.com/bearbotics2358/Smokey-XVII)
 
-## WakaTime
+## WakaTime (since March 17, 2025)
 [![VG-Fish's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VG_Fish)](https://wakatime.com/@VG_Fish)
 
 ### And The Miscellaneous Stuff
