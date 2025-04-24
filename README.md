@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Vishwesswaran (Vishy) Gopal
+# Hi there, I'm Vishwesswaran (Vishy) Gopal
 
 And I'm a highschooler (in 12th grade) who's interested in pursuing robotics/mechatronics in college. Here are some of my: 
 
