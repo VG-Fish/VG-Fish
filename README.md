@@ -1,6 +1,6 @@
 # Hi there, I'm Vishwesswaran (Vishy) Gopal
 
-Incoming Computer Engineering Freshman at Purdue. Here are some of my: 
+Incoming First Year Engineering (goal is Computer Engineering) Freshman at Purdue. Here are some of my: 
 
 
 ## Stats
