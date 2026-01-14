@@ -1,10 +1,15 @@
 # Hi there, I'm Vishwesswaran (Vishy) Gopal
 
 First Year Engineering (goal is Computer Engineering) Freshman at Purdue.
+
+<!--
 ## Miscellaneous
 ![](https://komarev.com/ghpvc/?username=VG-Fish&color=blue&abbreviated=true)
+-->
+
 <!--
 **VG-Fish/VG-Fish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
