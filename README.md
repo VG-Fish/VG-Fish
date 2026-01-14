@@ -1,12 +1,6 @@
 # Hi there, I'm Vishwesswaran (Vishy) Gopal
 
-First Year Engineering (goal is Computer Engineering) Freshman at Purdue. Here are some of my: 
-
-
-## Stats
-![VG-Fish's GitHub stats](
-https://github-readme-stats.vercel.app/api?username=VG-Fish&include_all_commits=true&theme=moltack&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+First Year Engineering (goal is Computer Engineering) Freshman at Purdue.
 ## Miscellaneous
 ![](https://komarev.com/ghpvc/?username=VG-Fish&color=blue&abbreviated=true)
 <!--
