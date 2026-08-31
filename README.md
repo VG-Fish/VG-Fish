@@ -1,6 +1,6 @@
 # Hi there, I'm Vishwesswaran (Vishy) Gopal
 
-And I'm a Computer Engineering Student at Purdue.
+And I'm a CompE sophomore @ Purdue.
 
 <!--
 ## Miscellaneous
